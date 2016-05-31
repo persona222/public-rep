@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-size_t my_strlen(char *s)
+size_t w_strlen(char *s)
 {
    char *p = s;
 
