@@ -2,7 +2,9 @@
 
 #include <stdio.h>
 
-size_t w_strlen(char *s)
+//new comment
+
+size_t fu_strlen(char *s)
 {
    char *p = s;
 
